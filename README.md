@@ -77,7 +77,7 @@
 
 | Landing Page | Live Recognition | Demo Challenge |
 |:---:|:---:|:---:|
-| ![Landing](HomePage.png) | ![Recognition](RecognizePage.png) | ![Demo](DemoPage.png) |
+| ![Landing](HomePage.png) | ![Recognition](RecogPage.png) | ![Demo](DemoPage.png) |
 | Animated hero + Lottie hand | Glassmorphism result panel | Countdown ring + confetti |
 
 </div>
