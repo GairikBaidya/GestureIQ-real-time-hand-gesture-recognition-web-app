@@ -77,7 +77,7 @@
 
 | Landing Page | Live Recognition | Demo Challenge |
 |:---:|:---:|:---:|
-| ![Landing](https://placehold.co/380x220/4F46E5/white?text=🏠+Landing) | ![Recognition](https://placehold.co/380x220/6EE7F7/0F172A?text=🖐️+Recognition) | ![Demo](DemoPage.png) |
+| ![Landing](HomePage.png) | ![Recognition](RecognizePage.png) | ![Demo](DemoPage.png) |
 | Animated hero + Lottie hand | Glassmorphism result panel | Countdown ring + confetti |
 
 </div>
